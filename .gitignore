@@ -1,0 +1,14 @@
+# Ignore Maven build folders
+**/target/
+
+# Ignore IntelliJ IDEA project files
+**/.idea/
+
+# Ignore log files
+**/*.log
+
+# Ignore OS-specific files
+**/.DS_Store
+
+# Ignore environment files (si tu en utilises)
+**/.env
