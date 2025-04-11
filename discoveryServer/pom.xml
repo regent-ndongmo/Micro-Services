@@ -11,7 +11,7 @@
 	<groupId>com.microservice</groupId>
 	<artifactId>master</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>discoveryServer</name>
+	<name>eureka-server</name>
 	<description>serveur de decouverte</description>
 	<url/>
 	<licenses>
